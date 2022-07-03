@@ -1,1 +1,19 @@
 hello bbc.
+--              with restrictive change management processes, where creating
+--              even temporary tables and PL/SQL packages is not allowed or would
+--              take too much time to get approved.
+
+
+git@github.com:vancat1968/demo1.git
+git@github.com:vancat1968/demo1.git
+
+
+
+
+--              with restrictive change management processes, where creating
+--              even temporary tables and PL/SQL packages is not allowed or would
+--              take too much time to get approved.
+
+
+git@github.com:vancat1968/demo1.git
+git@github.com:vancat1968/demo1.git
